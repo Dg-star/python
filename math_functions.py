@@ -3,7 +3,7 @@ import math
 # Умножение
 def multiply(a, b):
     return a * b
-
+#Лях Никита 107б2
 # Деление
 def divide(a, b):
     if b == 0:

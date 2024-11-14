@@ -1,6 +1,6 @@
 import pytest
 from math_functions import multiply, divide, distance, solve_quadratic, geometric_sum
-
+#Лях Никита 107б2
 def test_multiply():
     assert multiply(2, 3) == 6
     assert multiply(-2, 3) == -6
